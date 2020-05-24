@@ -1,0 +1,25 @@
+{
+  "name": "graphql-geojson-rfc",
+  "version": "1.0.0",
+  "description": "GraphQL schema object types following The GeoJSON Format (RFC 7946)",
+  "keywords": [
+    "graphql",
+    "geojson",
+    "schema"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "license": "ISC",
+  "author": "Rafael Kraut <coding@rafael.kr> (https://github.com/RafaelKr)",
+  "homepage": "https://github.com/RafaelKr/graphql-geojson-rfc#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelKr/graphql-geojson-rfc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RafaelKr/graphql-geojson-rfc/issues"
+  },
+  "peerDependencies": {
+    "graphql": ">= 1.x"
+  }
+}
